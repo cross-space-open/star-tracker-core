@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: CROSS Star Tracker Core
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Joshua Julian Robert
+    family-names: Critchley-Marrows
+    affiliation: The University of Sydney
+  - given-names: Julian
+    family-names: Guinane
+  - given-names: Matthew
+    family-names: Suntup
+  - given-names: Benjamin
+    family-names: Jarvis
+  - given-names: Georgia
+    family-names: Markham
+identifiers:
+  - type: url
+    value: 'https://github.com/cross-space-open/star-tracker-core'
+repository-code: 'https://github.com/cross-space-open/star-tracker-core'
+license: MIT
+version: '1.0'
